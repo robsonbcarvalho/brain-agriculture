@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "São Paulo", "abbreviation": "SP" },
+    { "id": 2, "name": "Rio de Janeiro", "abbreviation": "RJ" },
+    { "id": 3, "name": "Minas Gerais", "abbreviation": "MG" },
+    { "id": 4, "name": "Goias", "abbreviation": "GO" }
+]
